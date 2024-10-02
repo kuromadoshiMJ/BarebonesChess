@@ -1,30 +1,29 @@
-#BarebonesChess
-##BarebonesChess is a simple chess engine developed from scratch in python. This repository can be used by anyone trying to enter the world of chess engine development. This repository contains the code and instructions to run it.
+# BarebonesChess
+## BarebonesChess is a simple chess engine developed from scratch in python. This repository can be used by anyone trying to enter the world of chess engine development. This repository contains the code and instructions to run it.
 
-##Prerequisites
+## Prerequisites
 Make sure you have the following installed:
 
 Python 3.x
 Git
-Installation
+## Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+`git clone https://github.com/your-username/your-repo-name.git`
+`cd your-repo-name`
+
 It is recommended to create a virtual environment before installing the required dependencies:
 
-bash
-Copy code
+```
 python -m venv venv
 source venv/bin/activate      # For Linux or macOS
 venv\Scripts\activate         # For Windows
+```
 Install the required libraries using pip:
-
-bash
-Copy code
+```
 pip install -r requirements.txt
 Note: Make sure the requirements.txt file includes all necessary libraries.
-
+```
 How to Run
 Once the setup is complete, you can run the project as follows:
 
@@ -56,10 +55,10 @@ your-repo-name/
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-Contact
+## Contact
 For any questions or issues, contact:
 
 Your Name - your-email@example.com
