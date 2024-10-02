@@ -1,5 +1,5 @@
 # BarebonesChess
-## BarebonesChess is a simple chess engine developed from scratch in python. This repository can be used by anyone trying to enter the world of chess engine development. This repository contains the code and instructions to run it.
+BarebonesChess is a simple chess engine developed from scratch in python. This repository can be used by anyone trying to enter the world of chess engine development. This repository contains the code and instructions to run it.
 
 ## Prerequisites
 Make sure you have the following installed:
